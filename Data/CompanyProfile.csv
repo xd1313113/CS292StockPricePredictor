@@ -1,12 +1,11 @@
-TickerSymbol,Address,Name,City,State,Country,Zip,Phone,Fax,Website
-GOOG,"1600 Amphitheatre Parkway","Google Inc.","Mountain View",CA,"United States",94043,650-253-0000,650-253-0001,http://www.google.com
-FB,"1601 Willow Road","Facebook, Inc.","Menlo Park",CA,"United States",94025,650-543-4800,,http://www.facebook.com
-TWTR,"1355 Market Street","Twitter, Inc.","San Francisco",CA,"United States",94103,415-222-9670,,http://www.twitter.com
-LNKD,"2029 Stierlin Court","LinkedIn Corporation","Mountain View",CA,"United States",94043,650-687-3600,650687-0505,http://www.linkedin.com
-MSFT,"One Microsoft Way","Microsoft Corporation",Redmond,WA,"United States",98052,425-882-8080,425-706-7329,http://www.microsoft.com
-AAPL,"1 Infinite Loop","Apple Inc.",Cupertino,CA,"United States",95014,408-996-1010,,http://www.apple.com
-YHOO,"701 1st Ave","Yahoo Inc.",Sunnyvale,CA,USA,94089,"(408) 349-3300","(408) 349-3301",www.yahoo.com
-AOL,"770 Broadway","AOL Inc.","New York",NY,USA,10003,"(212) 206-4400",,http://www.corp.aol.com
-SNE,"1-7-1 Konan, Minato-ku","Sony Corporation",Tokyo,,JAPAN,108-0075,"(81-3) 6748 2111","(81-3) 6748 2244",www.sony.net
-SINA,"Jin Mao Tower 37th Floor","SINA Corporation",Shanghai,,CHINA,200121,"(86-21) 5049 8666","(86-21) 5049 8806",www.sina.com
-ORCL,"100 Oracle Pkway","Oracle Corporation","Redwood City",CA,USA,94065,"(650) 506-7000",,www.oracle.com
+GOOG,1600 Amphitheatre Parkway,Google Inc.,Mountain View,CA,United States,94043,650-253-0000,650-253-0001,http://www.google.com,Consumer Goods,Electronic Equipment,72800,40.24,4.7832E+11,561.02
+FB,1601 Willow Road,"Facebook, Inc.",Menlo Park,CA,United States,94025,650-543-4800,,http://www.facebook.com,Technology,Internet Information Providers,5600,1.11,3570000000,46.62
+TWTR,1355 Market Street,"Twitter, Inc.",San Francisco,CA,United States,94103,415-222-9670,,http://www.twitter.com,Technology,Internet Information Providers,6337,0.6,1.6518E+11,54.65
+LNKD,2029 Stierlin Court,LinkedIn Corporation,Mountain View,CA,United States,94043,650-687-3600,650687-0505,http://www.linkedin.com,Technology,Internet Information Providers,46421,37.92,3.9391E+11,1120.71
+MSFT,One Microsoft Way,Microsoft Corporation,Redmond,WA,United States,98052,425-882-8080,425-706-7329,http://www.microsoft.com,Technology,Internet Information Providers,4812,0.3,24220000000,216.83
+AAPL,1 Infinite Loop,Apple Inc.,Cupertino,CA,United States,95014,408-996-1010,,http://www.apple.com,Technology,Business Software & Services,99000,2.7,3.0858E+11,37.41
+YHOO,701 1st Ave,Yahoo Inc.,Sunnyvale,CA,USA,94089,(408) 349-3300,(408) 349-3301,www.yahoo.com,Technology,Application Software,120000,2.35,1.7018E+11,38.26
+AOL,770 Broadway,AOL Inc.,New York,NY,USA,10003,(212) 206-4400,,http://www.corp.aol.com,Technology,Internet Software & Services,6400,87.97,4530000000,17.29
+SNE,"1-7-1 Konan, Minato-ku",Sony Corporation,Tokyo,,JAPAN,108-0075,(81-3) 6748 2111,(81-3) 6748 2244,www.sony.net,Consumer Goods,Electronic Equipment,146300,0.05,17750000000,84.25
+SINA,Jin Mao Tower 37th Floor,SINA Corporation,Shanghai,,CHINA,200121,(86-21) 5049 8666,(86-21) 5049 8806,www.sina.com,Technology,Internet Information Providers,2300,-0.18,29410000000,63.65
+ORCL,100 Oracle Pkway,Oracle Corporation,Redwood City,CA,USA,94065,(650) 506-7000,,www.oracle.com,Technology,Internet Information Providers,11700,1.17,39000000000,40.44
